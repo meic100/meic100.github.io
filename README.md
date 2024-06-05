@@ -12,6 +12,10 @@
 <p dir="auto"><img src="https://github.com/meic100/meic100/assets/169346776/36263867-3555-4f0e-999f-58be34773247" style="max-width: 50%;">
 </p>
 <br>
+
+<!-- .pdf file of Power BI dashboard stored in meic100/meic100 -->
+[PDF of Power BI report](https://github.com/meic100/meic100/blob/ce91fa1f7e60a6713bf2d137a52792d9de5e7170/Mk13-%20Publish%20-%20Domino's%20Pizza%20sales.pdf)
+
 <!-- .pdf file of Power BI dashboard stored in meic100/meic100 -->
 [.pdf of Power BI report](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pdf)
 <br>
