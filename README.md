@@ -1,6 +1,3 @@
-# meic100.github.io
-Portfolio repository for Mei
-
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
