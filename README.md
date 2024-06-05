@@ -1,2 +1,2 @@
 # meic100.github.io
-Portfolio repository
+Portfolio repository for Mei
