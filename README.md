@@ -13,11 +13,12 @@
 </p>
 <br>
 
+<!-- .pbix file to produce Power BI dashboard stored in repository meic100/Dominos-Pizza -->
+[.pbix file of dashboard ](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pbix)
+<br>
 <!-- .pdf file of Power BI dashboard stored in repository meic100/Dominos-Pizza -->
 [.pdf of Power BI report](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pdf)
 <br>
-<!-- .pbix file to produce Power BI dashboard stored in repository meic100/Dominos-Pizza -->
-[.pbix file of dashboard ](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pbix)
 
 <h2> 🤳 Connect with me:</h2>
 
