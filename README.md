@@ -11,6 +11,9 @@
 <h2> Sample of DAX used to create the dashboard </h2>
 <p dir="auto"><img src="https://github.com/meic100/meic100/assets/169346776/36263867-3555-4f0e-999f-58be34773247" style="max-width: 50%;">
 </p>
+
+Simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>
+
 <br>
 
 <!-- .pbix file to produce Power BI dashboard stored in repository meic100/Dominos-Pizza -->
