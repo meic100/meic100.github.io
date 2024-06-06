@@ -26,6 +26,7 @@
 <br>
 <!-- .pdf file of Power BI dashboard stored in repository meic100/Dominos-Pizza -->
 [.pdf of dashboard](https://github.com/meic100/Dominos-Pizza/blob/600c83d81b4e3e6eb68449039cf6f0dbb4c6a7fe/Domino's%20Pizza%20sales.pdf)
+
 <br>
 
 <h3> 🤳 Connect with me:</h3>
