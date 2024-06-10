@@ -13,7 +13,7 @@
 <br>
 <!-- DAX used in Power BI dashboard -->
 <h3> Sample of DAX used to create the dashboard </h3>
-<p dir="auto"><img src="https://github.com/meic100/Dominos-Pizza/issues/1#issue-2344211757" style="max-width: 50%;">
+<p dir="auto"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/491cd0ab-830b-4934-b2a3-89f4f5dc0fe7" style="max-width: 50%;">
 </p>
 
 <br>
