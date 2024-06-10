@@ -7,7 +7,7 @@
 
 (Simulated data from <a href="https://urbizedge.com/sample-power-bi-project-on-analysing-sales-data-by-branch-product-and-target/">Urbizedge</a>)
 
-<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/984906f6-e944-41dd-9f7e-989bbbbf88d1" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/d52efa7c-696b-443a-b729-b9137fc60464" alt="Recent Article 0" data-canonical-src="https://app.powerbi.com/view?r=eyJrIjoiNjM4NzRlY2YtMjJiNy00Nzk3LWJmOGItZGEzYjA4ODMxZWRkIiwidCI6IjgxZTVmNjI2LTVlZTQtNDdkYS1hNzhhLTdiMzI1OThhNzU5YSJ9" style="max-width: 100%;"></a>
 </p>
 
 <br>
