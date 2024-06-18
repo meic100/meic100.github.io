@@ -32,8 +32,7 @@
 <h2>Other project</h2>
 
 <!-- Python in Jupyter Notebook -->
-<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/1280c9d1-a64f-40a7-ab38-fa918d05c049" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
-
+<p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/54985620-e4bc-433e-b386-54f0f2f02941" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
 
 <h3> 🤳 Connect with me:</h3>
 
