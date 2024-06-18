@@ -34,7 +34,7 @@
 <!-- Python in Jupyter Notebook -->
 <p dir="auto"><a href="https://github.com/meic100/Car-sales" rel="nofollow"><img src="https://github.com/meic100/Car-sales/assets/169346776/54985620-e4bc-433e-b386-54f0f2f02941" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Car-sales" style="max-width: 100%;"></a></p>
 
-<h3> 🤳 Connect with me:</h3>
+<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MeiChan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
