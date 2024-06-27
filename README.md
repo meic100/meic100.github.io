@@ -15,7 +15,7 @@
 <h2>Other projects</h2>
 <!-- Domino's Pizza - Spotlight on Sales in Nigeria for 8.30-9.30am for 2 weeks in December 2015 -->
 <!-- Power BI dashboard of Domino's Pizza sales -->
-<p dir="auto"><a href="https://github.com/meic100/Dominos-Pizza" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/781b1980-2284-4d13-bc1d-dd6b5a288c68" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Dominos-Pizza" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://github.com/meic100/Dominos-Pizza" rel="nofollow"><img src="https://github.com/meic100/Dominos-Pizza/assets/169346776/3ab01251-a54a-48eb-802e-42298b1f98f1" alt="Recent Article 0" data-canonical-src="https://github.com/meic100/Dominos-Pizza" style="max-width: 100%;"></a>
 </p>
 
 <!-- Python in Jupyter Notebook -->
