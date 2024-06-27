@@ -7,7 +7,7 @@
 
 (Graph from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
 
-<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/3ecd1407-6cfd-4499-85cb-2a8f947f0c97" style="max-width: 100%;">
+<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/df14621d-8f69-416f-82cf-76bcbbe7b8ae" style="max-width: 100%;">
 </p>
 
 <br>
