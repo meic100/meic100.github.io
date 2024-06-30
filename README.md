@@ -2,12 +2,24 @@
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
 
+<h2>👨‍💻 My questions on ONS analyses</h2>
+
 <!-- My question on ONS analysis of "Travel time to employment centre by public transport"  -->
 <h3> My question on ONS analysis of "Travel time to employment centre by public transport" </h3>
 
 (Graph from <a href="https://explore-local-statistics.beta.ons.gov.uk/areas/E12000009-south-west/indicators#connectivity">ONS Local indicators for the South West</a>)
 
 <p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/45eafaae-4570-4e8a-9db8-81ed3c77ff9d" style="max-width: 100%;">
+</p>
+
+---
+<br>
+<!-- My question on Labour Force Survey excluding Communal Housing -->
+<h3> My question on Labour Force Survey excluding Communal Housing </h3>
+
+(Source from <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreportoctobertodecember2023#summary-of-methods">Labour Force Survey performance and quality monitoring report: October to December 2023</a>)
+
+<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/8c1410dd-ad2f-4c35-b05f-e352af9baf7f" style="max-width: 100%;">
 </p>
 
 <br>
