@@ -19,7 +19,7 @@
 
 (Source from <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreportoctobertodecember2023#summary-of-methods">Labour Force Survey performance and quality monitoring report: October to December 2023</a>)
 
-<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/c34e3a95-9bfe-4d35-97ba-3d0d8b278d9d" style="max-width: 100%;">
+<p dir="auto"><img src="https://github.com/meic100/ONS-Question1/assets/169346776/7646a9a8-364e-478e-bee1-dfcdb7044e2f" style="max-width: 100%;">
 </p>
 
 <br>
