@@ -14,8 +14,8 @@
 
 ---
 <br>
-<!-- My question on Labour Force Survey excluding Communal Housing -->
-<h3> My question on Labour Force Survey excluding Communal Housing </h3>
+<!-- My question on the validity of Labour Force Survey excluding Communal Housing -->
+<h3> My question on the validity of Labour Force Survey excluding Communal Housing </h3>
 
 (Source from <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreportoctobertodecember2023#summary-of-methods">Labour Force Survey performance and quality monitoring report: October to December 2023</a>)
 
